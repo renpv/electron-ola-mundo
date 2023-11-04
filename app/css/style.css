@@ -1,0 +1,8 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.principal {
+    max-width: 800px;
+    margin: 0 auto;
+}
